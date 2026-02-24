@@ -1,5 +1,5 @@
 # DSA-Project-CPU-Scheduling
-DSA SEM 3 Project
+DSA Winter PEP Project
 
 SAMPLE INPUT:
 
