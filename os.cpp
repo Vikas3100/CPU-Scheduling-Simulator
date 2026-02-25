@@ -161,7 +161,7 @@ int main() {
         switch (choice) {
             case 1:
                 scheduler.priorityScheduling(n);
-                cout << "\nAfter PRIORITY Scheduling:\n";
+                cout << "\nAfter PRIORITY Scheduling :\n";
                 scheduler.display(n);
                 break;
 
